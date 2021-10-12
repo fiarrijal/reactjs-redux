@@ -1,2 +1,0 @@
-# reactjs-redux
-fake database
