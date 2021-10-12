@@ -1,0 +1,9 @@
+{
+	"users": [
+		{ "id": 1, "name": "Afifah", "address": "Amerika" },
+		{ "id": 2, "name": "Budi", "address": "Brazil" },
+		{ "id": 3, "name": "Cantika", "address": "Ceko" }
+	],
+	"error": false,
+	"title": "Simple CRUD"
+}
